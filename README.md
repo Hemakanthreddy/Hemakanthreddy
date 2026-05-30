@@ -15,10 +15,10 @@
 
 I am a focused Software Engineer dedicated to solving complex algorithmic challenges and building modern, responsive web applications. I enjoy breaking down problems, optimizing backend logic, and designing smooth frontend user experiences.
 
-* 🚀 Deep-diving into Data Structures and Algorithms with Java.
 * 💻 Building dynamic web applications using React, HTML, and CSS.
 * 🐍 Scripting and automating workflows with Python.
 * 📚 Constantly learning new frameworks and development patterns.
+* 🚀 Diving into Data Structures and Algorithms with Java.
 
 ---
 
