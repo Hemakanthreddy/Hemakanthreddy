@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Anatoly03/Anatoly03/main/assets/hi.gif" width="45px">
   <h1>Hi, I'm Hemakanth Reddy!</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Data+Structures+%26+Algorithms;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 ---
@@ -30,8 +30,8 @@ I am a focused Software Engineer dedicated to solving complex algorithmic challe
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### ⚙️ Core Languages & Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
