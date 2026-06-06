@@ -1,10 +1,11 @@
 # Hi, I'm Hemakanthreddy 👋
 
 ### 🚀 About Me
-I build dynamic web applications, write efficient scripts, and solve complex problems. Focused on continuous learning and writing clean, scalable code.
+I'm a tech enthusiast who loves the thrill of solving hard problems and building apps from scratch. From designing smooth user interfaces on the frontend to structuring clean database schemas on the backend, I enjoy every step of the development cycle.
 
-- 🔭 **Current Focus:** Advanced Data Structures & Algorithms, Backend Optimization.
-- 💬 **Ask me about:** Java, Python, and Database Design.
+- 🛠️ **Tech I work with daily:** HTML/CSS/JS, Python, Java, and MySQL.
+- 🎯 **Current Goal:** Expanding my knowledge in backend frameworks and system optimization.
+- ✨ **Fun Fact:** I love diving into debugging sessions to see how things work under the hood.
 
 ---
 
