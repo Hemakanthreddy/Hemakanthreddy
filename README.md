@@ -5,7 +5,7 @@ I'm a tech enthusiast who loves the thrill of solving hard problems and building
 
 - 🛠️ **Tech I work with daily:** HTML/CSS/JS, Python, Java, and MySQL.
 - 🎯 **Current Goal:** Expanding my knowledge in backend frameworks and system optimization.
-- ✨ **Fun Fact:** I love diving into debugging sessions to see how things work under the hood.
+- ✨ **Fun Fact:** I love diving into debugging sessions to see how things work.
 
 ---
 
