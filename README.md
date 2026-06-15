@@ -1,9 +1,9 @@
 # Hi, I'm Hemakanthreddy 👋
 
 ### 🚀 About Me
-I am a passionate and results-driven Software Engineer focused on building robust applications, optimizing algorithms, and exploring modern web architectures. I thrive on solving complex technical challenges and translating real-world problems into clean, maintainable code. 
+I am a passionate and results-driven Software Engineer focused on building applications and exploring modern web architectures. I thrive on solving technical challenges and translating real-world problems into clean, maintainable code. 
 
-Beyond engineering, I am a dedicated technical content creator, sharing insights, tutorials, and tips on software design, coding best practices, and career growth across YouTube, Medium, and Instagram to help empower the developer community
+Beyond engineering, I am a dedicated technical  sharing insights, tutorials, and tips on software design, coding best practices, and career growth across  and Instagram to help community
 
 - 🛠️ **Tech I work with daily:** HTML/CSS/JS, Python, Java, and MySQL.
 - 🎯 **Current Goal:** Expanding my knowledge in backend frameworks and system optimization.
@@ -61,9 +61,6 @@ Feel free to explore my repositories, check out my content, or reach out directl
   <a href="https://youtube.com" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://medium.com" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
   <a href="https://instagram.com" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -79,15 +76,7 @@ Feel free to explore my repositories, check out my content, or reach out directl
 ---
 
 > "Talk is cheap. Show me the code." — Linus Torvalds<p align="right">
-  <img src="https://komarev.com/normal-badge.png?id=Hemakanthreddy&color=blueviolet&style=flat-square" alt="Hemakanthreddy views" />
-</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anatoly03/Anatoly03/main/assets/hi.gif" width="50px">
-  <h1>Hi, I'm Hemakanth Reddy!</h1>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Building+Scalable+Applications" alt="Typing SVG" />
-</div>
 ---
 
 
