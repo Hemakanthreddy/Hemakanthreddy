@@ -1,7 +1,9 @@
 # Hi, I'm Hemakanthreddy 👋
 
 ### 🚀 About Me
-I'm a tech enthusiast who loves the thrill of solving hard problems and building apps from scratch. From designing smooth user interfaces on the frontend to structuring clean database schemas on the backend, I enjoy every step of the development cycle.
+I am a passionate and results-driven Software Engineer focused on building robust applications, optimizing algorithms, and exploring modern web architectures. I thrive on solving complex technical challenges and translating real-world problems into clean, maintainable code. 
+
+Beyond engineering, I am a dedicated technical content creator, sharing insights, tutorials, and tips on software design, coding best practices, and career growth across YouTube, Medium, and Instagram to help empower the developer community
 
 - 🛠️ **Tech I work with daily:** HTML/CSS/JS, Python, Java, and MySQL.
 - 🎯 **Current Goal:** Expanding my knowledge in backend frameworks and system optimization.
@@ -35,13 +37,57 @@ I'm a tech enthusiast who loves the thrill of solving hard problems and building
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/hemakanth-reddy-5967803a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemakanthreddy&show_icons=true&theme=tokyonight&count_private=true" alt="Hemakanthreddy's GitHub Stats" height="192px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemakanthreddy&theme=tokyonight" alt="Hemakanthreddy's GitHub Streak" height="192px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemakanthreddy&layout=compact&theme=tokyonight&langs_count=6" alt="Hemakanthreddy's Top Languages" height="180px" />
 </p>
 
 ---
 
-> "Talk is cheap. Show me the code." — Linus Torvalds
+## 🤝 Let's Connect & Collaborate!
+
+Feel free to explore my repositories, check out my content, or reach out directly for collaborations or tech discussions. 
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<br />
+
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/Hemakanthreddy">Hemakanthreddy</a>. "Keep pushing commits, keep solving problems."</sub>
+</div>
+
+
+---
+
+> "Talk is cheap. Show me the code." — Linus Torvalds<p align="right">
+  <img src="https://komarev.com/normal-badge.png?id=Hemakanthreddy&color=blueviolet&style=flat-square" alt="Hemakanthreddy views" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anatoly03/Anatoly03/main/assets/hi.gif" width="50px">
+  <h1>Hi, I'm Hemakanth Reddy!</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Building+Scalable+Applications" alt="Typing SVG" />
+</div>
+---
+
+
