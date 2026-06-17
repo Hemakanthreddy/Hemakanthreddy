@@ -5,7 +5,7 @@ I am a passionate and results-driven Software Engineer focused on building appli
 
 Beyond engineering, I am a dedicated technical  sharing insights, tutorials, and tips on software design, coding best practices, and career growth across  and Instagram to help community
 
-- 🛠️ **Tech I work with daily:** HTML/CSS/JS, Python, Java, and MySQL.
+- 🛠️ **Tech I work with daily:** HTML/CSS/JS, Python, and MySQL.
 - 🎯 **Current Goal:** Expanding my knowledge in backend frameworks and system optimization.
 - ✨ **Fun Fact:** I love diving into debugging sessions to see how things work.
 
