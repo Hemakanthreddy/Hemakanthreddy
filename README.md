@@ -74,8 +74,6 @@ Feel free to explore my repositories, check out my content, or reach out directl
 
 ---
 
-> "Talk is cheap. Show me the code." — Linus Torvalds<p align="right">
 
----
 
 
