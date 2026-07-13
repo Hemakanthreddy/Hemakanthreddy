@@ -1,4 +1,4 @@
-# Hi, I'm Hemakanthreddy 👋
+# Hi, I'm Hemakanthreddy 
 
 ### 🚀 About Me
 I am a passionate and results-driven Software Engineer focused on building applications and exploring modern web architectures. I thrive on solving technical challenges and translating real-world problems into clean, maintainable code. 
