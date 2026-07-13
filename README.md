@@ -28,7 +28,7 @@ Beyond engineering, I am a dedicated technical  sharing insights, tutorials, and
 ### ⚙️ Version Control & Hosting
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ## 📊 GitHub Analytics
 
 <p align="center">
