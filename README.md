@@ -73,8 +73,6 @@ Feel free to explore my repositories, check out my content, or reach out directl
 
 
 ---
-_ _ _
-
 
 
 
